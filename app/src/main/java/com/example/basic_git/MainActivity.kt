@@ -10,8 +10,9 @@ class MainActivity : AppCompatActivity() {
 println("my second change")
         println("my third commit")
         print("local change")
-        git print("change 18")
+        print("change 18")
 
         print("jai bholenath ji ki")
+        print("hey i cloned the remote repo")
     }
 }
