@@ -10,6 +10,6 @@ class MainActivity : AppCompatActivity() {
 println("my second change")
         println("my third commit")
         print("local change")
-        print("Change 1")
+        print("change 2")
     }
 }
